@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Threads.cpp" />
+    <ClCompile Include="UML.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
